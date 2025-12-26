@@ -42,6 +42,7 @@
 | Paarth Arora            |iit2025280-sys        | IIIT Allahabad                 |
 | Ibrahim Raza Beg        | PHOX-9               | IIIT Allahabad                 |
 | Mayank Puri             | purimayank19-bot.  | IIIT Allahabad                  |
+| Sindhu B                | Sindhuu-B            | JNNCE                          |
 | Harshit Sethi           | HarshitRSethi      | IIIT Allahabad                  |
 | Abhigyan Tiwari            | Abh-igyan  | NIT Silchar                  |
 | Roshan Gupta| roshangupta4804-hue |  |  IIIT Allahabad | 
